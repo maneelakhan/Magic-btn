@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+
+}
+button {
+    width: 100% !important;
+    height: 100px;
+    padding: 30px;
+    font-size: 5rem;
+    font-family:monospace;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+h3 {
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: 2rem;
+    text-align: center;
+    margin: 20px;
+    background: url("img.jpg");
+    background-position: center;
+    height: 500px;
+    box-sizing: border-box;
+    background-size:contain;
+    background-repeat: no-repeat;
+}
